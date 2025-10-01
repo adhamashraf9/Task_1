@@ -4,7 +4,7 @@
 * Make sure that you have **vs code** installed.
 * Make sure that you have **node** installed.
 * Make sure that you have **Postman** installed.
-* Make sure that you have **Git** installed
+
 
 
 * Clone the repository to your laptop.
